@@ -196,7 +196,7 @@ body {
     margin: var(--spacing-300) 0 var(--spacing-200);
 }
 
-.main__text-secondary {
+.main__text--secondary {
     color: var(--color-slate-500);
     font-size: 0.9375rem;
     letter-spacing: 0.0125rem;
