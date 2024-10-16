@@ -166,7 +166,7 @@ body {
     background-color: var(--color-white);
     max-width: 288px;
     border-radius: 1.25rem;
-    padding: var(--spacing-200) var(--spacing-200) var(--spacing-300);
+    padding: var(--spacing-200) var(--spacing-200) var(--spacing-500);
     box-shadow: 0 25px 25px rgba(0, 0, 0, 0.0477);
 }
 
